@@ -5,10 +5,6 @@ Welcome! This repository stores documentation for running services inside Proxmo
 - Docs are in the `docs/` folder. 🗂️
 - See the Semaphore installation guide: `docs/semaphore-installation.md` 🔧
 
-Quick links:
-
-- Semaphore (self-hosted) installation → `docs/semaphore-installation.md` 🔗
-- Proxmox VE helper script (community scripts) → https://community-scripts.github.io/ProxmoxVE/scripts?id=semaphore&category=Automation+%26+Scheduling 🔗
 
 All docs 📚:
 
