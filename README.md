@@ -10,4 +10,8 @@ Quick links:
 - Semaphore (self-hosted) installation → `docs/semaphore-installation.md` 🔗
 - Proxmox VE helper script (community scripts) → https://community-scripts.github.io/ProxmoxVE/scripts?id=semaphore&category=Automation+%26+Scheduling 🔗
 
+All docs 📚:
+
+- [`docs/semaphore-installation.md`](docs/semaphore-installation.md) - Semaphore (self-hosted) installation guide 🎯
+
 Want more? I can add templates (cloud-init, docker-compose, Proxmox VM templates) and automate deployments. ⚙️✨
